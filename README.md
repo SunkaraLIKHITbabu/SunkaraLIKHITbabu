@@ -1,18 +1,20 @@
 
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
+<!-- ===================================================== -->
+<!--                    PROFILE HEADER                     -->
+<!-- ===================================================== -->
 
-<h1 align="center"> Hey there! 👋 I'm Sunkara Likhit Babu</h1>
+<h1 align="center">👋 Hey there! I'm Sunkara Likhit Babu</h1>
 
 <h3 align="center">
-  Computer Science Graduate | Technology Enthusiast | Exploring AI & Innovation
+  Computer Science Graduate | Technology Enthusiast | AI Explorer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Curious+Mind.+Creative+Thinking.;Learning+Today%2C+Building+Tomorrow.;Exploring+Technology+One+Step+at+a+Time." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Curious+Mind.+Creative+Thinking.;Exploring+AI.+Experimenting+with+Ideas.;Learning+Today%2C+Building+Tomorrow.;Turning+Ideas+Into+Real-World+Solutions." alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SunkaraLIKHITbabu&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=SunkaraLIKHITbabu&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -33,10 +35,39 @@ I believe in learning by doing. Every project, challenge, and new experience is 
 - ☁️ Gained practical exposure to Salesforce CRM development and business process automation.
 - 🧩 Appreciate creative problem-solving, logical thinking, and building user-focused solutions.
 - 🤝 Value teamwork, collaboration, adaptability, and attention to detail.
-- 🚀 Currently strengthening my technical foundation through continuous learning and hands-on projects.
+- 🚀 Continuously strengthening my technical foundation through hands-on projects.
 - 🌍 Always open to new ideas, experiences, collaborations, and opportunities to grow.
 
 > **My mindset:** Stay curious, keep learning, embrace challenges, and let every experience make you better.
+
+---
+
+## **🤖 AI EXPLORATION | LEARN • EXPERIMENT • BUILD**
+
+Artificial Intelligence is more than just a technology I'm interested in — it's an exciting field that I genuinely enjoy exploring.
+
+I'm curious about **how AI thinks, how it works, how it understands information, and how it generates intelligent responses.** I enjoy experimenting with AI tools, exploring prompt engineering, understanding AI capabilities, and discovering how human creativity and artificial intelligence can work together.
+
+### **🔍 What I'm Exploring**
+
+- 🧠 **Understanding AI:** Exploring how AI systems learn, process information, recognize patterns, and generate responses.
+- ✍️ **Prompt Engineering:** Experimenting with prompts, refining instructions, and discovering ways to get more meaningful and effective AI outputs.
+- ⚙️ **AI & Automation:** Exploring how intelligent tools can simplify workflows, improve productivity, and solve practical challenges.
+- 💡 **Learning Through Experimentation:** Testing ideas, understanding AI capabilities and limitations, and continuously expanding my knowledge.
+- 🚀 **Building with AI:** Turning ideas into practical applications and exploring AI-powered solutions for real-world problems.
+- 🌍 **Real-World Impact:** Interested in applying AI to areas such as healthcare, agriculture, productivity, and everyday problem-solving.
+
+### **🎯 My AI Learning Philosophy**
+
+I don't just want to use AI tools. I want to understand the technology behind them, explore how they work, experiment with their possibilities, and learn how to use them responsibly.
+
+**Explore the technology. Understand the intelligence. Master the art of prompting. Build solutions that matter.**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/AI-Exploring-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-Experimenting-0078D4?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Real--World%20Projects-Building-00A86B?style=for-the-badge" />
+</p>
 
 ---
 
@@ -55,7 +86,7 @@ An enriching learning experience that introduced me to Salesforce CRM developmen
 - Explored CRM-based solutions for business operations and data management.
 - Developed an understanding of translating business requirements into technical solutions.
 
-**🏆 Trailhead Achievements**
+### **🏆 Trailhead Achievements**
 
 <p align="center">
   <img src="https://img.shields.io/badge/60K%2B-Trailhead%20Points-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
@@ -77,7 +108,7 @@ My NCC journey has been one of the most meaningful experiences in shaping my per
 
 Through training, camps, and various activities, I had opportunities to challenge myself, step outside my comfort zone, and understand the importance of responsibility, commitment, and teamwork.
 
-**🎖️ Milestones & Experiences**
+### **🎖️ Milestones & Experiences**
 
 - Successfully completed **NCC B and C Certificates with A Grade**.
 - Participated in NCC training and camps, gaining valuable exposure to discipline and teamwork.
@@ -86,7 +117,7 @@ Through training, camps, and various activities, I had opportunities to challeng
 - Learned to approach challenges with confidence, patience, perseverance, and a positive mindset.
 - Built an appreciation for unity, responsibility, cooperation, and service to the nation.
 
-**🪖 My SSB Experience**
+### **🪖 My SSB Experience**
 
 Attending the SSB selection process was a valuable learning experience. It provided me with exposure to the qualities expected of defence aspirants, including leadership, effective communication, initiative, teamwork, and adaptability.
 
@@ -107,8 +138,10 @@ I'm still learning, exploring, and discovering new possibilities in technology. 
 Every challenge is a lesson. Every experience is an opportunity. Every small step contributes to a bigger journey.
 
 <p align="center">
-  <b>Learning with Curiosity. Growing with Discipline.<br>
-  Building with Purpose. Moving Forward with Passion. 🚀</b>
+  <b>Learning with Curiosity.</b><br>
+  <b>Growing with Discipline.</b><br>
+  <b>Building with Purpose.</b><br>
+  <b>Moving Forward with Passion. 🚀</b>
 </p>
 
 ---
@@ -116,13 +149,13 @@ Every challenge is a lesson. Every experience is an opportunity. Every small ste
 ## **🌐 LET'S CONNECT & EXCHANGE IDEAS**
 
 <p align="center">
-  <a href="https://linkedin.com/in/sunkara-likhit-babu-783436215/" target="_blank">
+  <a href="https://linkedin.com/in/sunkara-likhit-babu-783436215/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:likhitbabusunkara@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/SunkaraLIKHITbabu" target="_blank">
+  <a href="https://github.com/SunkaraLIKHITbabu">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -130,6 +163,8 @@ Every challenge is a lesson. Every experience is an opportunity. Every small ste
 ---
 
 ## **💻 TECHNOLOGY TOOLKIT**
+
+### **Programming Languages**
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -140,6 +175,8 @@ Every challenge is a lesson. Every experience is an opportunity. Every small ste
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
+### **Data Science & Analytics**
+
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -148,6 +185,8 @@ Every challenge is a lesson. Every experience is an opportunity. Every small ste
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
 </p>
+
+### **Tools & Platforms**
 
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
@@ -165,24 +204,46 @@ Every challenge is a lesson. Every experience is an opportunity. Every small ste
 
 ---
 
-## **📊 GITHUB CONTRIBUTION & ACTIVITY**
+## **📊 GITHUB ANALYTICS & ACTIVITY**
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SunkaraLIKHITbabu&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=SunkaraLIKHITbabu&theme=github-dark-blue&hide_border=true" alt="GitHub Streak" />
+  <i>A snapshot of my open-source journey, coding activity, and continuous learning.</i>
+</p>
+
+### **📈 GitHub Performance**
+
+<p align="center">
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=SunkaraLIKHITbabu&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Statistics" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=SunkaraLIKHITbabu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most Used Languages" />
+</p>
+
+### **🔥 Contribution Streak**
+
+<p align="center">
+  <img width="70%" src="https://streak-stats.demolab.com/?user=SunkaraLIKHITbabu&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub Contribution Streak" />
+</p>
+
+### **🗓️ Contribution Activity**
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/SunkaraLIKHITbabu" alt="GitHub Contribution Calendar" width="100%" />
 </p>
 
 <p align="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SunkaraLIKHITbabu&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" />
+  <i>Every contribution represents another step in my learning journey.</i>
 </p>
 
 ---
 
+## **💙 THANK YOU FOR VISITING!**
+
 <p align="center">
-  <b>🌟 Thanks for visiting my GitHub profile!</b><br>
-  <i>Every line of code is another step in the journey of learning.</i>
+  <b>Curiosity fuels learning. Creativity inspires innovation.<br>
+  Consistency turns ideas into reality.</b>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=100&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007CF0,100:00DFD8&height=120&section=footer" width="100%" />
 </p>
+
+<!-- Keep learning. Keep building. Keep growing. -->
